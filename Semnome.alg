@@ -1,4 +1,4 @@
-algoritmo "Exercício"
+algoritmo "Exercício 1"
 // Função :
 // Autor : Gustavo Henrique da Silva Souza
 // Data : 17/03/2023
