@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Exercício"
 // Função :
 // Autor : Gustavo Henrique da Silva Souza
 // Data : 17/03/2023
