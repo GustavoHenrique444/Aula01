@@ -1,15 +1,15 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor : Gustavo Henrique da Silva Souza
 // Data : 17/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 quanti, valor: real
 cod:caracter
 inicio
 escreva("informe a quantidade de litros: ")
 leia(quanti)
-escreva("informe o tipo de combustível: ")
+escreva("informe o tipo de combustÃ­vel: ")
 leia(cod)
 se(cod="A")entao
   se(quanti<=20)entao
@@ -22,7 +22,7 @@ se(cod="A")entao
 senao
  se(cod="G")entao
   se(quanti<=20)entao
-    valor:=quanti*(5.50-(5.50*4/100)
+    valor:=quanti*5.28
   senao
     valor:=quanti*(5.50-(5.50*6/100)
     escreva("total a pagar:")
